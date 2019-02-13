@@ -1,8 +1,8 @@
 {
   "deps": [
     {
-      "type": "github",
-      "repo": "cquinn/ponylib2"
+      "locator": "github.com/cquinn/pony-repo2.git/bundle2a"
     }
-  ]
+  ],
+  "info": {}
 }
