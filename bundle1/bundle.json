@@ -1,7 +1,8 @@
 {
   "deps": [
     {
-      "locator": "github.com/cquinn/pony-repo2.git/bundle2a"
+      "locator": "github.com/cquinn/pony-repo2.git/bundle2a",
+      "version": ">=0.11.0 <0.12.0"
     }
   ],
   "info": {}
